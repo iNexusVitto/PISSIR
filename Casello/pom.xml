@@ -1,0 +1,16 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>Gandolivieri</groupId>
+    <artifactId>EsamePISSIR</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>Casello</artifactId>
+  <packaging>pom</packaging>
+  <name>Casello</name>
+  <modules>
+  	<module>VarcoTicketIn</module>
+  </modules>
+  
+
+</project>
